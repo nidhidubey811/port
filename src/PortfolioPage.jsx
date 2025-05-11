@@ -31,7 +31,7 @@ in a fast- paced, collaborative environment
       </section>
 
       {/* Experience */}
-      <section className="max-w-5xl mx-auto space-y-8">
+      <section ></section>className="max-w-5xl mx-auto space-y-8" 
         <h2 className="text-2xl font-semibold text-center">Experience</h2>
 
         <div className="bg-gray-800 rounded-lg p-6 shadow-md">
