@@ -8,7 +8,7 @@ export default function PortfolioPage() {
         <h1 className="text-5xl font-bold">Nidhi Dubey</h1>
         <p className="text-lg">Quality Specialist · Gift City</p>
         <div className="flex justify-center space-x-4 text-sm text-gray-300">
-          <a href="mailto:ram.rounak27@gmail.com" className="flex items-center space-x-1 hover:text-white">
+          <a href="mailto:nidhidubey811@gmail.com" className="flex items-center space-x-1 hover:text-white">
             <Mail className="w-4 h-4" /> <span>nidhidubey811@gmail.com</span>
           </a>
           <a href="tel:+919003737733" className="flex items-center space-x-1 hover:text-white">
@@ -31,7 +31,7 @@ in a fast- paced, collaborative environment
       </section>
 
       {/* Experience */}
-      <section ></section>className="max-w-5xl mx-auto space-y-8" 
+      <section className="max-w-5xl mx-auto space-y-8" >
         <h2 className="text-2xl font-semibold text-center">Experience</h2>
 
         <div className="bg-gray-800 rounded-lg p-6 shadow-md">
@@ -43,7 +43,7 @@ in a fast- paced, collaborative environment
             <li>Generated test reports and testing metrics, ensuring transparency across teams.</li>
             <li>Collaborated across testing and automation efforts— identified defects in JIRA, supported regression cycles, contributed to automation planning, and participated in AXIOM enhancement handovers</li>
           </ul>
-        </div>
+        </div></section>
 
       
 
